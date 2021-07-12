@@ -1,0 +1,16 @@
+C:\Users\DEV_CHOW\source\repos\Splash Screen\bin\Debug\Splash Screen.exe.config
+C:\Users\DEV_CHOW\source\repos\Splash Screen\bin\Debug\Splash Screen.exe
+C:\Users\DEV_CHOW\source\repos\Splash Screen\bin\Debug\Splash Screen.pdb
+C:\Users\DEV_CHOW\source\repos\Splash Screen\bin\Debug\CircularProgressBar.dll
+C:\Users\DEV_CHOW\source\repos\Splash Screen\bin\Debug\WinFormAnimation.dll
+C:\Users\DEV_CHOW\source\repos\Splash Screen\bin\Debug\CircularProgressBar.xml
+C:\Users\DEV_CHOW\source\repos\Splash Screen\bin\Debug\WinFormAnimation.xml
+C:\Users\DEV_CHOW\source\repos\Splash Screen\obj\Debug\Splash Screen.csproj.AssemblyReference.cache
+C:\Users\DEV_CHOW\source\repos\Splash Screen\obj\Debug\Splash_Screen.Form1.resources
+C:\Users\DEV_CHOW\source\repos\Splash Screen\obj\Debug\Splash_Screen.Properties.Resources.resources
+C:\Users\DEV_CHOW\source\repos\Splash Screen\obj\Debug\Splash Screen.csproj.GenerateResource.cache
+C:\Users\DEV_CHOW\source\repos\Splash Screen\obj\Debug\Splash Screen.csproj.CoreCompileInputs.cache
+C:\Users\DEV_CHOW\source\repos\Splash Screen\obj\Debug\Splash Screen.csproj.CopyComplete
+C:\Users\DEV_CHOW\source\repos\Splash Screen\obj\Debug\Splash Screen.exe
+C:\Users\DEV_CHOW\source\repos\Splash Screen\obj\Debug\Splash Screen.pdb
+C:\Users\DEV_CHOW\source\repos\Splash Screen\obj\Debug\Splash_Screen.SecondScreen.resources
